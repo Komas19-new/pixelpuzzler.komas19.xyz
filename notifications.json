@@ -1,0 +1,20 @@
+{
+    "notifications": {
+        "notification": {
+            "id": 1,
+            "day": "3rd April 2024",
+            "removalday": "3rd May 2024",
+            "title": "Testing",
+            "contents": {
+                "1": "Hello World!",
+                "2": "Testing Notification!",
+                "3": "This is how they would look like!"
+            },
+            "image": false,
+            "images": {
+                "1": "https://example.com",
+                "2": "https://example.com"
+            }
+        }
+    }
+}
